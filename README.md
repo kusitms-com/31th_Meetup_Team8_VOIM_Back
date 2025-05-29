@@ -27,6 +27,11 @@
 ![KakaoTalk_Photo_2025-05-29-21-49-52](https://github.com/user-attachments/assets/dcda7b30-0e83-4f84-b03b-6b66e1824fcd)
 ## 📁 API 명세서 
 [VOIM Swagger](https://voim.store/api/swagger-ui/index.html#/)
+
+## 🎙️ 서비스 소개
+![image](https://github.com/user-attachments/assets/ab7a0016-8bc7-4242-99f5-8d2e89154dd0)
+
+
 ## 🧩 주요 기능
 
 | **기능 명**             | **설명** |
