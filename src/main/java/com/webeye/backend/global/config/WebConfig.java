@@ -16,16 +16,11 @@ public class WebConfig implements WebMvcConfigurer {
                         "chrome-extension://iofbhhcbidmfcmpjndglaignlfdojpcm",
                         "chrome-extension://jeppkpjgeheckphiogogbffdenhlkclh",
                         "chrome-extension://ecbaebehchfclbcglpabiclbgkjoihmf",
-                        "chrome-extension://adkanhcmkdbilgdibndapnlhkcnfoglg",
-                        "chrome-extension://libhakfegdlojphbiaaejoopedaodbgj",
-                        "chrome-extension://ghplnadekipfddbmbpcpkophjobfpkkj",
-                        "chrome-extension://alnggnpkcolckmkepmkhkdcajipincml",
-                        "chrome-extension://ehgaglekgllijnoglmdfeingpecfjbmb",
-                        "chrome-extension://bhmlpmgeohjakgpfjoddkcbepkhcjhpb",
-                        "chrome-extension://ehiaoibpalckfankempaochcbffhllea",
-                        "chrome-extension://chjaphejcjooaehbhlhklkmjkcfjdomc",
-                        "chrome-extension://hemleepcpkkmkapaliflaohhnnapfdlh",
-                        "chrome-extension://lhgneonbbjkppefiifpanchnbaigecil"
+                        "chrome-extension://lhgneonbbjkppefiifpanchnbaigecil",
+                        "chrome-extension://mphnlcljehhgppcoamgpnnaamidpjkch",
+                        "chrome-extension://licieibgjjilbdjfheljdmllhbopbajo",
+                        "chrome-extension://jbnhfmonamkklnglmdhklbfkojofhppk",
+                        "chrome-extension://ehgaglekgllijnoglmdfeingpecfjbmb"
                 )
                 .allowedMethods("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS")
                 .allowedHeaders("*")
